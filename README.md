@@ -1,6 +1,6 @@
 # [theowinter.ch](https://theowinter.ch) landingpage
 
-![theowinter.ch landingpage](https://raw.githubusercontent.com/aerobless/landingpage/master/preview.gif)
+![theowinter.ch landingpage](https://raw.githubusercontent.com/aerobless/landingpage/master/preview.jpg)
 
 Made with bootstrap & fontawesome.
 
