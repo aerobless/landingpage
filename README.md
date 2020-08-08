@@ -4,7 +4,7 @@
 
 Made with bootstrap & fontawesome.
 
-#License (MIT)
+# License (MIT)
  > Copyright (c) 2017 Theodor Winter
  
  > Permission is hereby granted, free of charge, to any person obtaining a copy
